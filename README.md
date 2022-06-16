@@ -7,5 +7,5 @@ Since Deep Convolutional Neural Networks (DCNNs) and Vision Transformer perform 
 ## Overall structure of the proposed QFormer Network
 ![avatar](https://github.com/JiangBoCS/QFormer/blob/main/xuanzhuan.png)
 
-![avatar](https://github.com/JiangBoCS/QFormer/blob/main/P-S.png)
 PSNR value and the number of parameters on the real noisy image testing sets. (a) on the SSID dataset. (b) on the PolyU dataset. (c) on the Nam dataset.
+![avatar](https://github.com/JiangBoCS/QFormer/blob/main/P-S.png)
